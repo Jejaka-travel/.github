@@ -1,16 +1,16 @@
-# JEJAKa
+# JEJAKA
 
 <br>
 
 # Table of Content
 
-- [JEJAKa](#jejaka)
+- [JEJAKA](#jejaka)
 - [Table of Content](#table-of-content)
-- [About JEJAKa](#about-jejaka)
+- [About JEJAKA](#about-jejaka)
   - [Background](#background)
   - [Goal \& Aim](#goal--aim)
   - [Installation \& Deployment](#installation--deployment)
-  - [How JEJAKa Work - Places Recommendation System](#how-jejaka-work---places-recommendation-system)
+  - [How JEJAKA Work - Places Recommendation System](#how-jejaka-work---places-recommendation-system)
   - [Repository \& Branch](#repository--branch)
   - [Bibliography](#bibliography)
     - [A. Dataset](#a-dataset)
@@ -20,9 +20,9 @@
 
 <br>
 
-# About JEJAKa
+# About JEJAKA
 
-**JEJAKa** is an exciting application that provides recommendations for places to visit. It is currently in the development phase as part of the Capstone project by Team C23-PS477, consisting of six developers from Bangkit Academy Cohort, who are actively participating in the Merdeka Belajar Kampus Merdeka independent study program. This project is part of **Batch 4 of the <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning" title="Grow with Google" target="_blank"><b>Bangkit Academy Program</b></a>**
+**JEJAKA** is an exciting application that provides recommendations for places to visit. It is currently in the development phase as part of the Capstone project by Team C23-PS477, consisting of six developers from Bangkit Academy Cohort, who are actively participating in the Merdeka Belajar Kampus Merdeka independent study program. This project is part of **Batch 4 of the <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning" title="Grow with Google" target="_blank"><b>Bangkit Academy Program</b></a>**
 
 <br>
 
@@ -38,7 +38,7 @@ Based on the background described above, the goal and aim of this project are:
 
 - Promote tourism and make travel easier in Indonesia. 
 
-- JEJAKa providing a user-friendly platform for tourists to access information, more and more people will be encouraged to explore the beauty and diversity of Indonesia.
+- JEJAKA providing a user-friendly platform for tourists to access information, more and more people will be encouraged to explore the beauty and diversity of Indonesia.
 
 <br>
 
@@ -51,17 +51,17 @@ This step will be explained briefly through two stages, consisting of:
 
 <br>
 
-## How JEJAKa Work - Places Recommendation System
+## How JEJAKA Work - Places Recommendation System
 
 <br>
 
 ## Repository & Branch
 
-This **JEJAKa Organization** is divided into **4 Repository**:
+This **JEJAKA Organization** is divided into **4 Repository**:
 
 - **.github** (Public Repository)
   
-  The `.github` Repository is used as an is used as a centralized location to store various configuration files and workflows for JEJAKa project. 
+  The `.github` Repository is used as an is used as a centralized location to store various configuration files and workflows for JEJAKA project. 
 
 - **Machine-Learning-Jejaka** (Development Repository for Machine Learning)
   
@@ -94,12 +94,6 @@ In working on this project, several project or project resources are needed reso
 
 - **Language**
   
-  <a href="https://www.w3schools.com/css" title="CSS3" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  </a> &nbsp;
-  <a href="https://www.javascript.com" title="JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  </a> &nbsp;
   <a href="https://www.python.org" title="Python" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a> &nbsp;
